@@ -1,0 +1,17 @@
+{
+  "name": "bitly",
+  "version": "1.0.0",
+  "description": "bitly api test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yuchen",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "date-and-time": "^0.6.3",
+    "express": "^4.16.4",
+    "request": "^2.88.0"
+  }
+}
